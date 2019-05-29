@@ -1,5 +1,5 @@
-# Certificate
-some certificates among three years.
+# README
+  Past three years,I have taken part in many kinds of interest activities and some clubs,like Robot Innovation,ACM Innovation.There are many gains from club,competition,corporation and some other things.Not only certificate proved my ability,but also I obtained friendship,skills and learned how to get along with other people. Some certificates are shown as following.
 # 比赛
 >以下为竞赛证书，描述了相应比赛中承担的职责。  
 * “第十七届全国大学生机器人大赛 **ROBOMASTER 2018 机甲大师赛**”全国三等奖，担任视觉组组长，完成装甲灯条的识别任务。  
@@ -27,7 +27,8 @@ some certificates among three years.
 # 文体
 >以下证书包含体育竞赛、资格证书、文艺相关。  
 * 四六级证书。  
-![](img-828040400-0002.jpg)
+![](img-828040400-0003.jpg)  
+![](img-828040400-00014.png)
 
 * 田径运动会400米栏获奖证书。    
 ![](img-828040400-0007.jpg)
